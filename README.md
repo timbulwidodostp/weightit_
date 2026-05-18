@@ -1,6 +1,8 @@
 # weightit_
 Estimate Balancing Weights Use weightit (WeightIt) With (In) R Software
 
+https://www.youtube.com/watch?v=8bcETGRsIeA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
